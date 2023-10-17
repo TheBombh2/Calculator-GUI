@@ -1,4 +1,4 @@
-# Calculator-GUI
+# Scientific Calculator-GUI
 Read CalculatorGUI-Final FOR PROJECT
 CREDITS ARE IN THE GUI
 Group 1
