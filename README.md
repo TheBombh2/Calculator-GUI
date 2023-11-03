@@ -1,6 +1,6 @@
 # Scientific Calculator-GUI  
 Read CalculatorGUI-Final FOR PROJECT  
-#Features    
+# Features    
 Math Parsing  
 41 Scientific Constants  
 Can work in radians or degrees  
@@ -11,7 +11,7 @@ Solve cubic equations
 Base N converter (Where N can be any number)  
 Unit Conversion  
 
-#Important Info
+# Important Information
 PUT VARIABLES USING KEYBOARD AS CAPITAL LETTERS  
 LIKE (X,Y,Z)  
 GRAPHING Y = func(X)  
