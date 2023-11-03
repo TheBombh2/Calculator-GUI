@@ -13,3 +13,15 @@ GRAPHING Y = func(X)
 It's not perfect at all but it was fun and was a nice experience with friends
 and how to work in a group project
 and well, the code is a mess but yeah.
+
+
+Features:
+Math Parsing
+41 Scientific Constants
+Can work in radians or degrees
+2D graphing
+Solve Linear equations (up to 3 equations)
+Solve quadratic equations
+Solve cubic equations
+Base N converter (Where N can be any number)
+Unit Conversion
